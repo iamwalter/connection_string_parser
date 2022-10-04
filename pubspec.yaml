@@ -1,6 +1,6 @@
 name: connection_string_parser
 description: Dart library to parse Microsoft Connection Strings
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/iamwalter/connection_string_parser
 
 environment:
